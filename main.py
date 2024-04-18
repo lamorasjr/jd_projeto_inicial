@@ -18,4 +18,4 @@ lista = [1,2,3,4,5]
 lista_invertida = lista.reverse()
 
 # Setup Github na VM do Mac
-print("Ubuntu VM")
+print("Ubuntu VM - test 2")
